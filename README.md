@@ -22,11 +22,11 @@ Bem-vindo ao **Bolinha Veloz**, um jogo viciante que vai testar seus reflexos! T
 
 ## 🎨 Imagens do Jogo
 
-![Screenshot do Jogo](link-para-imagem1)  
-*Exemplo de jogabilidade!*
+![Logotipo](./logotipo.jpg)  
+*logotipo*
 
 ![Screenshot do Jogo](link-para-imagem2)  
-*Interface divertida e intuitiva!*
+*Interface do jogo*
 
 ---
 
