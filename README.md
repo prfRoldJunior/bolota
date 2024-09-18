@@ -25,7 +25,7 @@ Bem-vindo ao **Bolinha Veloz**, um jogo viciante que vai testar seus reflexos! T
 ![Logotipo](./logotipo.jpg)  
 *logotipo*
 
-![Screenshot do Jogo](link-para-imagem2)  
+![tela](./tela.png)  
 *Interface do jogo*
 
 ---
